@@ -1,5 +1,6 @@
 # mlops
-
+- The MLOps life cycle iterative process that retrains your production models with new data is Continuous training.
+- MLOps constantly monitors, retrains, and serves the model. 
 **End-to-end MLOps helps ML practitioners efficiently and responsibly manage, monitor, govern, and explain ML projects throughout the entire development lifecycle.**
 
 Here's why:
